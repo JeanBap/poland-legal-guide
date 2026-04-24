@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://polandlegalguide.com/sitemap.xml
+Disallow: /dashboard/
+Sitemap: https://avokatfinder.com/sitemap.xml
